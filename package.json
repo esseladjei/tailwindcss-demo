@@ -1,0 +1,15 @@
+{
+  "name": "tailwindcss-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build -i src/style.css -o public/style.css"
+  },
+  "keywords": [],
+  "author": "Essel Adjei-Mensah",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.2.7"
+  },
+  "description": "demo with tailwind css"
+}
