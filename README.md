@@ -14,4 +14,5 @@ This run spin a local live server and run the application. if you don't have it 
     npm install -g live-server
     
 ## Or install locally 
-   npm install  live-server
+    
+     npm install  live-server
